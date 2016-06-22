@@ -1,4 +1,4 @@
-QuickCoin
+#QuickCoin
 QuickCoin: The New Cryptocurrency
 What is QuickCoin?
 QuickCoin is a cryptocurrency like Bitcoin. Taking development cues from Bitcoin and Litecoin, QuickCoin currently employs a simplified variant of scrypt.
