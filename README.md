@@ -7,5 +7,4 @@ http://www.quickcoins.org/
 QuickCoin is released under the terms of the MIT license. See COPYING for more information or seehttp://opensource.org/licenses/MIT.
 Development and contributions
 Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
-#Frequently Asked Questions
 
